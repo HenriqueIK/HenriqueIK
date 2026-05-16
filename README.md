@@ -4,7 +4,7 @@ Estudante de Engenharia de Computação no Instituto Nacional de Telecomunicaç�
 
 Possuo interesse nas áreas de desenvolvimento web, Sensores IoT, Front-End, Microcontroladores, DevOps e QA.
 
-Procurando evoluir nas áreas de Machine Learning e Desenvolvimento Web.
+Procurando evoluir nas áreas de Machine Learning, Aplicações Web e APIs.
 
 ---
 

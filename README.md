@@ -1,7 +1,9 @@
 # Henrique Issao Kato
 
 Estudante de Engenharia de Computação no Instituto Nacional de Telecomunicações (INATEL), atualmente no 7° Período.
+
 Possuo interesse nas áreas de desenvolvimento web, Sensores IoT, Front-End, Microcontroladores, DevOps e QA.
+
 Procurando evoluir nas áreas de Machine Learning e Desenvolvimento Web.
 
 ---

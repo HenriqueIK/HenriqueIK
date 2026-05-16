@@ -1,8 +1,8 @@
 # Henrique Issao Kato
 
-Estudante de Engenharia de Computação
-
-Atualmente no 7° Período
+Estudante de Engenharia de Computação no Instituto Nacional de Telecomunicações (INATEL), atualmente no 7° Período.
+Possuo interesse nas áreas de desenvolvimento web, Sensores IoT, Front-End, Microcontroladores, DevOps e QA.
+Procurando evoluir nas áreas de Machine Learning e Desenvolvimento Web.
 
 ---
 
@@ -33,3 +33,12 @@ Atualmente no 7° Período
   <img src="https://raw.githubusercontent.com/CachyOS/CachyOS-icons/refs/heads/master/Colored/CachyOS.svg" height="40" alt="CachyOS"  />
   <img width="12" />
 </div>
+
+### Projetos
+
+- [Sensor MMWave](https://github.com/HenriqueIK/IC_MMwave.git)
+  
+  Pesquisa de Iniciação Cíentifica, estudo de caso sobre funcionamento e aplicação do sensor MMWave na Engenharia Biomédica.
+- [RGP-CB](https://github.com/HenriqueIK/RPG-CB.git)(Em andamento)
+  
+  Desenvolvimento de uma rede social baseada em Builds de RPG usando TypeScript, TailwindCSS e React.

@@ -32,6 +32,8 @@ Procurando evoluir nas áreas de Machine Learning, Aplicações Web e APIs.
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" height="40" alt="git"  />
   <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" height="40" alt="git"  />
+  <img width="12" />
   <img src="https://raw.githubusercontent.com/CachyOS/CachyOS-icons/refs/heads/master/Colored/CachyOS.svg" height="40" alt="CachyOS"  />
   <img width="12" />
 </div>

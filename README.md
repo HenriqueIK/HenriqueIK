@@ -50,3 +50,7 @@ Procurando evoluir nas áreas de Machine Learning, Aplicações Web e APIs.
 - [RGP-CB](https://github.com/HenriqueIK/RPG-CB.git)(Em andamento)
   
   Desenvolvimento de uma rede social baseada em Builds de RPG usando TypeScript, TailwindCSS e React.
+
+- [Gerador de Senhas](https://github.com/HenriqueIK/Gerador-de-Senhas.git)
+
+  Aplicação Web de um gerador de senhas usando Java, Spring Boot e Junit.
